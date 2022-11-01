@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="_4sdp">container</dimen>
+    <dimen name="_5sdp">viewSupporter</dimen>
+    <dimen name="_20sdp">container_background</dimen>
+    <dimen name="_8sdp">layoutHeader</dimen>
+    <dimen name="_24sdp">imageSettings</dimen>
+    <dimen name="_2sdp">imageSettingsPad</dimen>
+    <dimen name="_18sdp">city_text</dimen>
+    <dimen name="_220sdp">pager</dimen>
+    <dimen name="_80sdp">viewPager</dimen>
+    <dimen name="_100sdp">viewSupporter</dimen>
+    <dimen name="_10sdp">dayWeatherText</dimen>
+    <dimen name="_40sdp">viewFadingEdge</dimen>
+    <dimen name="_25sdp">citiesGroup</dimen>
+</resources>

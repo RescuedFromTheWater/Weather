@@ -1,3 +1,33 @@
 <resources>
     <string name="app_name">Weather</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="change_theme_text">Change Theme</string>
+    <string name="time">Время</string>
+    <string name="temp">Температура</string>
+    <string name="minsk">Minsk</string>
+    <string name="dzerzhinsk">Dzerzhinsk</string>
+    <string name="day">День</string>
+    <string name="temperature">Температура</string>
+    <string name="tema">Поменять тему</string>
+    <string name="week">Погода за неделю</string>
+    <string name="City">Город:</string>
+    <string name="weather_day">Погода за день</string>
+    <string name="timeText">Время</string>
+    <string name="temperatureText">Температура</string>
+    <string name="grodno">Grodno</string>
+    <string name="gomel">Gomel</string>
+    <string name="weatherText">Результат по городу</string>
+    <string name="buttonForCity">Получить погоду по городу</string>
+    <string name="weatherTextForHour">Результат за час</string>
+    <string name="buttonForHour">Получить погоду за час</string>
+    <array name="cityNames">
+        <item>Минск</item>
+        <item>Дзержинск</item>
+        <item>Гродно</item>
+        <item>Гомель</item>
+        <item>Витебск</item>
+        <item>Могилёв</item>
+        <item>Барановичи</item>
+        <item>По местоположению</item>
+    </array>
 </resources>
